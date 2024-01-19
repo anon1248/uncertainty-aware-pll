@@ -1,0 +1,6 @@
+idx,dataset,n_samples,m_features,l_classes
+0,bird-song,4966,38,12
+1,lost,1122,108,14
+2,mir-flickr,2778,1536,12
+3,msrc-v2,1755,48,22
+4,yahoo-news,22762,163,203

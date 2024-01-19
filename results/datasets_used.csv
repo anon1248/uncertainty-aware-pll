@@ -1,0 +1,10 @@
+idx,dataset,n_samples,m_features,l_classes
+0,artificial-characters,10218,7,10
+1,ecoli,336,7,8
+2,first-order-theorem,6118,51,6
+3,flare,1389,20,6
+4,kr-vs-k,28056,23,18
+5,mfeat-fourier,2000,76,10
+6,pendigits,10992,16,10
+7,semeion,1593,256,10
+8,statlog-landsat-satellite,2859,36,6
